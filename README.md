@@ -1,8 +1,7 @@
 # spring-boot-movie
 
 Pre Build
-openjdk:8
-apt-get update; apt-get -y install maven;
+Install Redis, openjdk:8, maven
 
 Build
 mvn install
