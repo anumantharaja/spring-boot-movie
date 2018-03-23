@@ -1,0 +1,9 @@
+/spring-data-redis-example/src/main/java/com/michaelcgood/queue/MessagePublisher.java
+/spring-data-redis-example/src/main/java/com/michaelcgood/model/Movie.java
+/spring-data-redis-example/src/main/java/com/michaelcgood/controller/WebController.java
+/spring-data-redis-example/src/main/java/com/michaelcgood/queue/MessageSubscriber.java
+/spring-data-redis-example/src/main/java/com/michaelcgood/queue/MessagePublisherImpl.java
+/spring-data-redis-example/src/main/java/com/michaelcgood/repository/RedisRepository.java
+/spring-data-redis-example/src/main/java/com/michaelcgood/repository/RedisRepositoryImpl.java
+/spring-data-redis-example/src/main/java/com/michaelcgood/RedisExampleApplication.java
+/spring-data-redis-example/src/main/java/com/michaelcgood/config/RedisConfig.java

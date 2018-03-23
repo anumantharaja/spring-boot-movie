@@ -1,0 +1,6 @@
+com/michaelcgood/repository/RedisRepository.class
+com/michaelcgood/repository/RedisRepositoryImpl.class
+com/michaelcgood/controller/WebController.class
+com/michaelcgood/model/Movie.class
+com/michaelcgood/config/RedisConfig.class
+com/michaelcgood/RedisExampleApplication.class
